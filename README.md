@@ -1,12 +1,18 @@
 
 ### Hi hi 🐾
 I'm João Pedro aka Jao or Xao and i live at Niterói :brazil:  
-I'm doing my Bachelor's in Software Engineering
+I'm doing my Bachelor's in Software Engineering.
 I studied c# and .NET for a time and now I'm learning node.js 📓
+
+### 🎉 Random Facts
+- I'm autistic 🧩.
+- I love playing ARPGs and MMOs 🎮.
+- I'm ecletic 🎵.
+
 
 ### 💜 Loving...
 - learn new technologies
-- improve my habilities with coding
+- improve my abilities with coding
 - multi-tasking
 - solve issues
 
@@ -46,3 +52,7 @@ feel free to ask me anything! 🐕
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaxPe&layout=compact&langs_count=7&theme=material-palenight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JaxPe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
+
+### 🔥 Featured Projects
+- [Discord Bot](https://github.com/JaxPe/discord-bot): A bot for Discord built with Node.js.
+- [vaccine registration](https://github.com/JaxPe/Registro_Vacinas): A console program built with c# when i was studying it.
