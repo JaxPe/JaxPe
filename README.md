@@ -1,21 +1,48 @@
-# 💫 About Me:
-🔭 I’m currently working on some personal projects<br>🌱 I’m currently learning C#, .NET and node.js<br>💬 Ask me about anything
+
+### Hi hi 🐾
+I'm João Pedro aka Jao or Xao and i live at Niterói :brazil:  
+I'm doing my Bachelor's in Software Engineering
+I studied c# and .NET for a time and now I'm learning node.js 📓
+
+### 💜 Loving...
+- learn new technologies
+- improve my habilities with coding
+- multi-tasking
+- solve issues
+
+### ⚙️ Techs'n Tools
+
+<details>
+  <summary>
+    Peek-a-boo!
+  </summary>
+
+  #### Frequently use
+  <a target="_blank" href="github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20"/></a>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whotfisjao) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JooJPee) 
+  #### Learning
+  <a target="_blank" href="https://git-scm.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20"/></a>
+  <a target="_blank" href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="20" height="20"/></a>
+  <a target="_blank" href="https://learn.microsoft.com/en-us/dotnet/core/introduction"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="20" height="20"/></a>
+  <a target="_blank" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20" height="20"/></a>
+  <a target="_blank" href="https://devdocs.io/javascript/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="20" height="20"/></a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JaxPe&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaxPe&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxPe&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  #### Learned but barely used
+  <a target="_blank" href="https://devdocs.io/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="20" height="20"/></a>
+  <a target="_blank" href="https://devdocs.io/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="20" height="20"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</details>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JaxPe&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+### 📫 Contacts
+<a href="https://x.com/JooJPee" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/%40JooJPee-301934?style=flat-square"></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+feel free to ask me anything! 🐕
+
+### 📊 GitHub Stats 
+
+<div>
+<a href="https://github.com/JaxpPe">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaxPe&layout=compact&langs_count=7&theme=material-palenight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JaxPe&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+</div>
