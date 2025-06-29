@@ -2,13 +2,7 @@
 ### Hi hi 🐾
 I'm João Pedro aka Jao or Xao and i live at Niterói :brazil:  
 I'm doing my Bachelor's in Software Engineering.
-I studied c# and .NET for a time and now I'm learning node.js 📓
-
-### 🎉 Random Facts
-- I'm autistic 🧩.
-- I love playing ARPGs and MMOs 🎮.
-- I'm ecletic 🎵.
-
+I study and code mainly c# and .NET for a time and sometimes i try node.js 📓
 
 ### 💜 Loving...
 - learn new technologies
@@ -44,6 +38,11 @@ I studied c# and .NET for a time and now I'm learning node.js 📓
 <a href="https://x.com/JooJPee" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/%40JooJPee-301934?style=flat-square"></a>
 
 feel free to ask me anything! 🐕
+
+### 🎉 Random Facts
+- I'm autistic 🧩.
+- I love playing ARPGs and MMOs 🎮.
+- I'm ecletic 🎵.
 
 ### 📊 GitHub Stats 
 
